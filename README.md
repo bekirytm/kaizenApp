@@ -1,2 +1,3 @@
 # kaizenApp
-react native kaizenApp
+React Native Kaizen App
+
