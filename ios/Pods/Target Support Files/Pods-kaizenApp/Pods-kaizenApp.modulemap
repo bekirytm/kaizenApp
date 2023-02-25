@@ -1,0 +1,6 @@
+module Pods_kaizenApp {
+  umbrella header "Pods-kaizenApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

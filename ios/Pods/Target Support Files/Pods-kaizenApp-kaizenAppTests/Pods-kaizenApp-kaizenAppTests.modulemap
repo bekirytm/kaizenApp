@@ -1,0 +1,6 @@
+module Pods_kaizenApp_kaizenAppTests {
+  umbrella header "Pods-kaizenApp-kaizenAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
