@@ -86,11 +86,10 @@ const CarouselArea = (props: Props) => {
             width: width * 1.3,
             height: '100%',
             position: 'absolute',
-            left: 0,
-            bottom: -113,
-            // zIndex: -999,
+            left: -15,
+            bottom: -30,
           }}>
-          <BackIcon width={width} color={item.color} />
+          <BackIcon width={420} height={455} color={item.color} />
         </View>
         <View style={styles.cardArea}>
           <View style={{backgroundColor: '#fff', borderRadius: 20}}>
